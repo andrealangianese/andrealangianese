@@ -9,14 +9,14 @@ Ho completato un percorso intensivo di 600 ore in Web Development presso Boolean
 
 </div>
 
-- 
+--
 
 ### 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrealangianese-dev/)
 [![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrea.langianese@gmail.com)
 
-- 
+--
 
 ### 🎨 Frontend
 

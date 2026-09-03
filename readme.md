@@ -7,6 +7,7 @@ Sviluppo moderne applicazioni web full stack con React, Node.js, Express, MySQL 
 
 Ho completato un percorso intensivo di 600 ore in Web Development presso Boolean, lavorando su progetti individuali, di gruppo e su un'applicazione commissionata da un cliente reale.
 
+</div>
 
 ---
 
@@ -48,7 +49,6 @@ Ho completato un percorso intensivo di 600 ore in Web Development presso Boolean
 ![Vite](https://img.shields.io/badge/VITE-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Postman](https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-</div>
 ---
 
 ### 🚀 Progetti in evidenza
